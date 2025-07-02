@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Not_Hesap:jar">
+    <output-path>E:/IntelliJ/NotHesap/artifacts/Not_Hesap_jar</output-path>
+    <root id="archive" name="Not_Hesap.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/IntelliJ/NotHesap/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Not_Hesap" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:17.0.6" />
+      <element id="library" level="project" name="NotHesap" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/IntelliJ/openjfx-17.0.15_windows-x64_bin-sdk/javafx-sdk-17.0.15/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.6" />
+    </root>
+  </artifact>
+</component>
